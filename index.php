@@ -25,7 +25,7 @@
 			<table>
 				<tr><td><label for="tbSummand1">Erster Summand</label></td><td><input type="text" name="tbSummand1" id="tbSummand1" value="<?php echo $Summand1; ?>"></td></tr>
 				<tr><td><label for="tbSummand2">Zweiter Summand</label></td><td><input type="text" name="tbSummand2" id="tbSummand2" value="<?php echo $Summand2; ?>"></td></tr>				
-				<tr><td colspan="2"><input type="submit" name="btAddition" id="btAddition" value="Zusammenzählen!"></td></tr>
+				<tr><td colspan="2"><input type="submit" name="btAddition" id="btAddition" value="Zusammenz&auml;hlen!"></td></tr>
 				<tr><td><label for="tbSummand2">Summe</label></td><td><input type="text" name="tbSumme" id="tbSumme" value="<?php echo $Summe; ?>"></td></tr>								
 			</table>
 		</form>
